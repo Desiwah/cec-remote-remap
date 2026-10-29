@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Desiwah/cec-remote-remap/blob/main/assets/logo/logo.png?raw=true" alt="CEC Remote Remap Icon" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/Desiwah/cec-remote-remap/main/assets/logo/logo.png?v=2" alt="CEC Remote Remap Icon" width="80" height="80">
 </p>
 
 <h1 align="center">CEC Remote Remap</h1>
