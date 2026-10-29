@@ -42,15 +42,9 @@
 
 # **Download**
 
+[<img src="./assets/badge_obtainium.png" alt="Get it on Obtainium" height="50">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Desiwah/cec-remote-remap)
+
 [![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Desiwah/cec-remote-remap/releases/latest/download/CecRemoteRemap.apk)
-
-**On your TV:** Install the **Downloader** app from Google Play and enter this address:
-
-```
-github.com/Desiwah/cec-remote-remap/releases/latest/download/CecRemoteRemap.apk
-```
-
-**With Obtainium:** Add `https://github.com/Desiwah/cec-remote-remap` and you'll get every update automatically.
 
 &nbsp;
 
