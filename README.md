@@ -73,6 +73,8 @@ Coming soon on Google Play.
 
 📜 [Privacy Policy](./privacy_policy.md)
 
+NVIDIA and SHIELD are trademarks of NVIDIA Corporation. Android, Android TV and Google Play are trademarks of Google LLC. HDMI is a trademark of HDMI Licensing Administrator, Inc. CEC Remote Remap is not affiliated with or endorsed by them.
+
 &nbsp;
 
 # **Support**
