@@ -79,7 +79,8 @@ This Privacy Policy may be updated to reflect app improvements. The "Effective D
 
 ## 9. Contact
 
-If you have any questions about your privacy or this app, please contact the developer via Discord or GitHub:
+CEC Remote Remap is developed by **Desiderius** (the developer name shown on Google Play). If you have any questions about your privacy or this app, please contact the developer:
 
+- **Email:** supertocka@gmail.com
 - **Discord:** `desi1077`
 - **GitHub:** [Issues](https://github.com/Desiwah/cec-remote-remap/issues)
