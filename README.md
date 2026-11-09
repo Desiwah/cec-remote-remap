@@ -4,7 +4,7 @@
 
 <h1 align="center">CEC Remote Remap</h1>
 
-<p align="center"><b>CEC Remote Remap</b> gives the buttons on your <b>TV remote</b> new jobs on <b>NVIDIA Shield</b> and other <b>Android TV</b> devices. No root, no ADB and no extra remote needed.</p>
+<p align="center"><b>CEC Remote Remap</b> puts the buttons on your <b>TV remote</b> to work on <b>NVIDIA Shield</b> and other <b>Android TV</b> devices. No root, no ADB and no extra remote needed.</p>
 
 &nbsp;
 
